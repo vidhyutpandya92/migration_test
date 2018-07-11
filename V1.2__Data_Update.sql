@@ -1,1 +1,1 @@
-UPDATE `flyway_migration_test` SET name = 'E2 test - Update' WHERE gender = 1;
+UPDATE `flyway_migration_test` SET name = 'E2 test - Update' WHERE gender = 0;
