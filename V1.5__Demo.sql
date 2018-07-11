@@ -1,0 +1,1 @@
+SHOW COLUMNS FROM test_table;
