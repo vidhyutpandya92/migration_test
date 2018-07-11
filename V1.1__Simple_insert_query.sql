@@ -1,0 +1,1 @@
+INSERT INTO `flyway_migration_test` SET name = 'E2 test', gender = 1;
