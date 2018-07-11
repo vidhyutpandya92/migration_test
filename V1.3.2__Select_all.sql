@@ -1,0 +1,1 @@
+SELECT * FROM `flyway_migration_test`;
