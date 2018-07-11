@@ -1,1 +1,1 @@
-SHOW COLUMNS FROM test_table;
+-- SHOW COLUMNS FROM test_table;
